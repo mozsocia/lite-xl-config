@@ -1,3 +1,3 @@
 # lite-xl-config
 
-extract to C:\Users\Mozdalif\.config\lite-xl
+extract to C:\Users\Mozdalif\\.config\lite-xl
